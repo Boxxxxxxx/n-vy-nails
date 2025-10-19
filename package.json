@@ -1,0 +1,10 @@
+{
+    "name": "n-vy-nails",
+    "version": "0.0.1",
+    "author": "Boxxxxxxx",
+    "license": "PROPRIETARY",
+    "packageManager": "pnpm@10.14.0",
+    "dependencies": {
+        "turbo": "^2.5.8"
+    }
+}
